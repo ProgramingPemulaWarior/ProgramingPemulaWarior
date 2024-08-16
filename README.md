@@ -1,3 +1,7 @@
+![WhatsApp Image 2024-05-03 at 10 17 00](https://github.com/user-attachments/assets/e7c5c2b3-263c-4818-bf56-3382a323ece2)
+
+
+
 - 👋 Hi, I’m @ProgramingPemulaWarior
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
