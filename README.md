@@ -6,6 +6,8 @@ A brief description of what this project does and who it's for happy
 ![download](https://github.com/user-attachments/assets/7b46d6cf-0523-4d1b-bb0d-39d8e4cdb0b5)
 ## 🛠 Skills
 HTML, CSS, Javascript, Etc.
+![Uploading WhatsApp Image 2024-05-03 at 10.17.00.jpeg…]()
+
 
 - 👋 Hi, I’m @ProgramingPemulaWarior
 - 👀 I’m interested in program with Html, Css, Java Script, etc.
